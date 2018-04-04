@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1512516013 source:c:\users\muril\desktop\murilo\projects\c\mmcpu\code.c
+	"cpu.h"
+	"mask.h"
+
+1511980704 c:\users\muril\desktop\murilo\projects\c\mmcpu\cpu.h
+
+1511980704 c:\users\muril\desktop\murilo\projects\c\mmcpu\mask.h
+
+1512511738 source:c:\users\muril\desktop\murilo\projects\c\mmcpu\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	"mask.h"
+	"cpu.h"
+
